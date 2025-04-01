@@ -14,6 +14,9 @@ Welcome to the AWS EC2 deployment guide for our project! This comprehensive tuto
 - **Installing Docker Engine:** Deploying your application using Docker for streamlined management.
 - **Cloning Your Repository and Launching the Project:** Bringing your code to life on the cloud.
 
+### Deployed Project
+[Link to Deployed Project](http://3.77.158.98/docs#/)
+
 ### Prerequisites
 
 Before you begin, ensure you have the following:
